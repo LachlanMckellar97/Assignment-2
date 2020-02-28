@@ -1,14 +1,17 @@
 html,
 body {
-  height: 100%;
   background: cornsilk;
   background: linear-gradient(to right, cornsilk,grey);
 }
 
-#page-content {
-  flex: 1 0 auto;
-}
-
 #sticky-footer {
   flex-shrink: none;
+}
+
+#contactCard {
+  background-color: whitesmoke;
+  margin-top: 15px;
+  border: thick;
+  border-style: solid;
+  border-color: teal;
 }
