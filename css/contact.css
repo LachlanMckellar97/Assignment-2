@@ -1,6 +1,8 @@
 html,
 body {
   height: 100%;
+  background: cornsilk;
+  background: linear-gradient(to right, cornsilk,grey);
 }
 
 #page-content {
