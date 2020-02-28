@@ -1,14 +1,29 @@
-html,
 body {
-  height: 100%;
   background: cornsilk;
   background: linear-gradient(to right, cornsilk,grey);
 }
 
-#page-content {
-  flex: 1 0 auto;
-}
-
 #sticky-footer {
   flex-shrink: none;
+}
+
+#Aboutme {
+    background-color: whitesmoke;
+    margin-top: 15px;
+    border: thick;
+    border-style: solid;
+    border-color: teal;
+}
+
+#AboutmeHeader {
+    text-align: center;
+    border-bottom: solid;
+    border-color: teal;
+    margin-bottom: 15px;
+    background-color:#DCDCDC;
+}
+
+#studentImg {
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/000/828/088/9a6.php);
+    margin-bottom: 15px;
 }
