@@ -24,6 +24,12 @@ body {
 }
 
 #studentImg {
-    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/000/828/088/9a6.php);
+    padding: 0px !important;
     margin-bottom: 15px;
+    image-rendering: crisp-edges;
+}
+
+.card-img-top {
+  width: 100%;
+  margin: auto;
 }
