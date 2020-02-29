@@ -19,4 +19,9 @@ body {
 
 .card {
   margin-bottom: 15px;
+  background-color: #DCDCDC;
+}
+
+#portfolioCards {
+  background-color: whitesmoke;
 }
